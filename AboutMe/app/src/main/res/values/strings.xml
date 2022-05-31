@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nikita Koloskov</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Nikita.
+        \n\nI am a senior year student at Minerva University.
+        \n\nThis summer I am interning at Audible as SDE Intern.
+        \n\nExtremely excited!\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
